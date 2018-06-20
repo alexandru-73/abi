@@ -1,0 +1,13 @@
+Logcats on Android
+
+Logcats are a tool that android developers use to debug their applications. They are helpful for force closes, but a dev can also explicitly tell his app to write something into that "log" for a problem area or troubleshooting.
+
+Most users think that you have to be rooted to take logs, which is not correct. Not all developers root their devices, but they still have access to theses logs, how is that? 
+
+This is a tutorial that was posted on XDA to take logs off of your device:
+
+http://forum.xda-developers.com/showthread.php?t=1726238
+
+If you aren't rooted, then you will have to install the android SDK and then run some fancy command line commands to pull that information. It isn't hard, and it really only takes one line of commands to get it. So if you are interested in taking logs off of your device and what they are used for, head to that link to check it out
+
+If you are rooted, that link also tells some of the most popular apps for taking logs and how to use them
